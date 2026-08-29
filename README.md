@@ -6,7 +6,11 @@ A simple, fast, and free Check-In/Check-Out system designed for students and tut
 | :--- | :--- |
 | **Venmo** | [Donate via Venmo App](venmo://paycharge?txn=pay&recipients=Jonathan-Lin-630) (@Jonathan-Lin-630) |
 
-![Scan to Donate via Venmo](./qr_Jonathan_venmo.png)
+<p align="left">
+  <img src="./qr_Jonathan_venmo.png" alt="Venmo QR Code" width="180" height="180" />
+</p>
+
+Support the project on Venmo: **@Jonathan-Lin-630**
 
 ---
 
