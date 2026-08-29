@@ -2,6 +2,10 @@
 
 A simple, fast, and free Check-In/Check-Out system designed for students and tutors. It runs smoothly on legacy hardware (Windows, macOS) with a minimal memory footprint (~40–50 MB RAM).
 
+| Type | Link |
+| :--- | :--- |
+| **Venmo** | [![Donate via Venmo](https://shields.io)](https://venmo.com) (@Jonathan-Lin-630) |
+
 ---
 
 ## 🌟 Key Features
