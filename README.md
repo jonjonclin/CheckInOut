@@ -4,7 +4,9 @@ A simple, fast, and free Check-In/Check-Out system designed for students and tut
 
 | Type | Link |
 | :--- | :--- |
-| **Venmo** | [![Donate via Venmo](https://shields.io)](https://venmo.com) (@Jonathan-Lin-630) |
+| **Venmo** | [Donate via Venmo App](venmo://paycharge?txn=pay&recipients=Jonathan-Lin-630) (@Jonathan-Lin-630) |
+
+![Scan to Donate via Venmo](./qr_Jonathan_venmo.png)
 
 ---
 
