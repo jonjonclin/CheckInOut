@@ -17,6 +17,7 @@ Support the project on Venmo: **@Jonathan-Lin-630**
 ## 🌟 Key Features
 
 ### 1. Front-End Kiosk View
+* **Barcode & QR Code Scanner (Zero-Click Check-In/Out)**: Seamlessly supports any standard USB or Bluetooth 1D/2D barcode or QR code scanner (HID Keyboard Wedge). Students and tutors can simply scan their badge card for instantaneous check-in or check-out with audio chime and visual confirmation.
 * **Visual Gallery Selection**: Students and tutors can tap/click their name card directly from a visual gallery or use the search bar/role filter (`All`, `Students`, `Tutors`).
 * **Dual PIN Input (Touch Keypad & Keyboard)**: Enter PIN using either the touch on-screen numeric keypad or physical keyboard (top-row numbers, numpad, `Backspace` to edit, `Enter` to confirm, and `Escape` to cancel).
 * **Instant Confirmation**: Audio/visual feedback banners confirm check-in and check-out status and calculate total session time.
@@ -27,6 +28,7 @@ Support the project on Venmo: **@Jonathan-Lin-630**
 
 ### 3. Manager Admin Dashboard
 * **User Management (CRUD)**: Add, edit, remove, or reset PINs for students and tutors.
+* **Printable ID Badges (QR Codes & Barcodes)**: 1-click generation of formatted, printable student and tutor badge sheets (`badges.html`) with embedded QR codes, role tags, and PINs ready for printing on standard cardstock or Avery label sheets.
 * **Bulk CSV Import**: Import student/tutor records from any custom `.csv` file with interactive **Field Mapping** (maps Full Name, Role, Age, and PIN Code columns, with automatic 4-digit PIN generation for missing codes).
 * **Attendance & Duration Reports**:
   * Date range selector (Start Date to End Date).
@@ -34,3 +36,8 @@ Support the project on Venmo: **@Jonathan-Lin-630**
   * KPI Analytics Cards: Total Students, Total Tutors, Currently Checked-In Count, Total Logged Hours.
 * **CSV Export**: One-click export of attendance logs to `.csv` spreadsheet (compatible with Excel & LibreOffice).
 * **Settings**: Change Manager Password and configure kiosk preferences.
+
+## 👨‍💻 Author & Developer Support
+
+* **Author**: Jonathan Lin
+* **Support / Donations**: If this system helps your learning center or school, support development via Venmo: **`@Jonathan-Lin-630`**
