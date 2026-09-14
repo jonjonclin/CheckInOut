@@ -1,5 +1,7 @@
 # Student & Tutor Check-In & Check-Out Kiosk System
 
+**https://github.com/jonjonclin/CheckInOut/releases** [link](https://github.com/jonjonclin/CheckInOut/releases)
+
 A simple, fast, and free Check-In/Check-Out system designed for students and tutors. It runs smoothly on legacy hardware (Windows, macOS) with a minimal memory footprint (~40–50 MB RAM).
 
 | Type | Link |
